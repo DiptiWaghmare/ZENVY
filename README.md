@@ -9,55 +9,55 @@ Payroll & Attendance Intelligence Dashboard built using Power BI to analyze payr
 
 * Monitor overall payroll costs and salary distribution
 
-Analyze employee attendance patterns
+* Analyze employee attendance patterns
 
-Identify ghost employees and inactive paid employees
+* Identify ghost employees and inactive paid employees
 
-Track overtime hours across departments
+* Track overtime hours across departments
 
-Provide executive-level insights for workforce optimization
+* Provide executive-level insights for workforce optimization
 
 📈 Key Features
 
-Payroll KPIs: Total payroll, average salary, payroll by department
+* Payroll KPIs: Total payroll, average salary, payroll by department
 
-Attendance Analysis: Average present days, monthly attendance trends
+* Attendance Analysis: Average present days, monthly attendance trends
 
-Ghost Employee Detection: Department-wise identification
+* Ghost Employee Detection: Department-wise identification
 
-Inactive Employee Analysis: Employees marked inactive but receiving salary
+* Inactive Employee Analysis: Employees marked inactive but receiving salary
 
-Overtime Analysis: Department-wise overtime hours
+* Overtime Analysis: Department-wise overtime hours
 
-Interactive Filters: Department, employment status, designation
+* Interactive Filters: Department, employment status, designation
 
 🛠 Tools & Technologies
 
-Power BI – Dashboard design & data visualization
+* Power BI – Dashboard design & data visualization
 
-Power Query – Data cleaning and transformation
+* Power Query – Data cleaning and transformation
 
-DAX – Measures and calculated metrics
+* DAX – Measures and calculated metrics
 
 📊 Dashboard Insights
 
-Detected ghost employees contributing to unnecessary payroll costs
+* Detected ghost employees contributing to unnecessary payroll costs
 
-Identified inactive employees still receiving salaries
+* Identified inactive employees still receiving salaries
 
-Highlighted departments with high overtime dependency
+* Highlighted departments with high overtime dependency
 
-Provided a clear view of payroll distribution and attendance trends
+* Provided a clear view of payroll distribution and attendance trends
 
 💡 Business Value
 
-Improves payroll transparency
+* Improves payroll transparency
 
-Helps reduce financial leakage
+* Helps reduce financial leakage
 
-Supports compliance and workforce planning
+* Supports compliance and workforce planning
 
-Enables informed decision-making for HR and finance teams
+* Enables informed decision-making for HR and finance teams
 
 📂 Dataset
 
