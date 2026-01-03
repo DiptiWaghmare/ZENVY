@@ -7,7 +7,7 @@ Payroll & Attendance Intelligence Dashboard built using Power BI to analyze payr
 
 🎯 Objectives
 
-Monitor overall payroll costs and salary distribution
+* Monitor overall payroll costs and salary distribution
 
 Analyze employee attendance patterns
 
