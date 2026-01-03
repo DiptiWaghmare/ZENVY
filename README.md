@@ -3,7 +3,7 @@ Payroll & Attendance Intelligence Dashboard built using Power BI to analyze payr
 
 <img width="1116" height="627" alt="image" src="https://github.com/user-attachments/assets/9a61e17b-9d05-42d5-b8b5-e26c4effb992" />
 
-🎯 Objectives
+# 🎯 Objectives
 
 * Monitor overall payroll costs and salary distribution
 
@@ -15,7 +15,7 @@ Payroll & Attendance Intelligence Dashboard built using Power BI to analyze payr
 
 * Provide executive-level insights for workforce optimization
 
-📈 Key Features
+# 📈 Key Features
 
 * Payroll KPIs: Total payroll, average salary, payroll by department
 
@@ -29,7 +29,7 @@ Payroll & Attendance Intelligence Dashboard built using Power BI to analyze payr
 
 * Interactive Filters: Department, employment status, designation
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 * Power BI – Dashboard design & data visualization
 
@@ -37,7 +37,7 @@ Payroll & Attendance Intelligence Dashboard built using Power BI to analyze payr
 
 * DAX – Measures and calculated metrics
 
-📊 Dashboard Insights
+# 📊 Dashboard Insights
 
 * Detected ghost employees contributing to unnecessary payroll costs
 
@@ -47,7 +47,7 @@ Payroll & Attendance Intelligence Dashboard built using Power BI to analyze payr
 
 * Provided a clear view of payroll distribution and attendance trends
 
-💡 Business Value
+# 💡 Business Value
 
 * Improves payroll transparency
 
@@ -57,11 +57,11 @@ Payroll & Attendance Intelligence Dashboard built using Power BI to analyze payr
 
 * Enables informed decision-making for HR and finance teams
 
-📂 Dataset
+# 📂 Dataset
 
-The dataset contains employee payroll, attendance, and employment status information.
+The dataset contains Employee_ID,Employee_Name,Department,Designation,Employment_Status,Bank_Account_Number,Month,Present_Days,Overtime_Hours,Basic_Salary,HRA,Gross_Salary,Deductions,Net_Salary and Paid_Amount.
 (Data used for learning and analysis purposes.)
 
-🚀 Conclusion
+# 🚀 Conclusion
 
 This dashboard demonstrates how Power BI can be used to transform raw payroll and attendance data into meaningful insights that drive operational efficiency and cost control.
