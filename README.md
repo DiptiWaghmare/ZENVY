@@ -1,5 +1,3 @@
-# ZENVY
-
 # Payroll and Attendance Dashboard 
 Payroll & Attendance Intelligence Dashboard built using Power BI to analyze payroll costs, attendance patterns, and compliance risks. The dashboard identifies ghost employees, inactive salary payouts, overtime abuse, and department-level payroll insights to support data-driven HR and finance decisions.
 
